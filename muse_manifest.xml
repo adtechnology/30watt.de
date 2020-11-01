@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.30watt.de" resolutions="1x" timestamp="1604259071132">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.30watt.de" resolutions="1x" timestamp="1604268912647">
   <folder name="css">
     <file name="site_global.css" crc="3794147737"/>
     <file name="master_a-musters.css" crc="124239728" ref="about:index:datenschutz:kontakt"/>
     <file name="nomq_preview_master_a-musters.css" crc="374031531" ref="about:index:datenschutz:kontakt"/>
     <file name="about.css" crc="483440023" ref="about"/>
     <file name="nomq_about.css" crc="225038738" ref="about"/>
-    <file name="index.css" crc="4097966484" ref="index"/>
+    <file name="index.css" crc="3762890177" ref="index"/>
     <file name="nomq_index.css" crc="4238286115" ref="index"/>
     <file name="datenschutz.css" crc="483440023" ref="datenschutz"/>
     <file name="nomq_datenschutz.css" crc="225038738" ref="datenschutz"/>
@@ -55,9 +55,6 @@
     <file name="naive_bus-05-concept-03338x226.jpg" crc="198472452" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="orgcoral_ofc-02-concept-01320x213.jpg" crc="126831392" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="5541533x334.jpg" crc="482211930" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -65,14 +62,17 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:about:kontakt:datenschutz"/>
-    <file name="5541580x363.jpg" crc="4108049694" seo="true" ref="index">
+    <file name="5541619x387.jpg" crc="4130416307" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="5541348x218.jpg" crc="463501410" seo="true" ref="index">
+    <file name="5541371x232.jpg" crc="3955246425" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="orgcoral_ofc-02-concept-01363x242.jpg" crc="3987606115" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="372868863" seo="true" mt="1604259047961" redirect="true"/>
+  <file name="index.html" crc="490019696" seo="true" mt="1604268889011" redirect="true"/>
   <file name="about.html" crc="110571247" seo="true" mt="1604250243005" redirect="true"/>
   <file name="kontakt.html" crc="4280980703" seo="true" mt="1604250243005" redirect="true"/>
   <file name="datenschutz.html" crc="288826144" seo="true" mt="1604250243005" redirect="true"/>
