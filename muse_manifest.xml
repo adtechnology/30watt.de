@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.30watt.de" resolutions="1x" timestamp="1604268912647">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.30watt.de" resolutions="1x" timestamp="1604269345451">
   <folder name="css">
     <file name="site_global.css" crc="3794147737"/>
-    <file name="master_a-musters.css" crc="124239728" ref="about:index:datenschutz:kontakt"/>
+    <file name="master_a-musters.css" crc="508705238" ref="about:index:datenschutz:kontakt"/>
     <file name="nomq_preview_master_a-musters.css" crc="374031531" ref="about:index:datenschutz:kontakt"/>
-    <file name="about.css" crc="483440023" ref="about"/>
+    <file name="about.css" crc="148125538" ref="about"/>
     <file name="nomq_about.css" crc="225038738" ref="about"/>
-    <file name="index.css" crc="3762890177" ref="index"/>
-    <file name="nomq_index.css" crc="4238286115" ref="index"/>
-    <file name="datenschutz.css" crc="483440023" ref="datenschutz"/>
+    <file name="index.css" crc="379821403" ref="index"/>
+    <file name="nomq_index.css" crc="4223519585" ref="index"/>
+    <file name="datenschutz.css" crc="148125538" ref="datenschutz"/>
     <file name="nomq_datenschutz.css" crc="225038738" ref="datenschutz"/>
-    <file name="kontakt.css" crc="483440023" ref="kontakt"/>
+    <file name="kontakt.css" crc="148125538" ref="kontakt"/>
     <file name="nomq_kontakt.css" crc="225038738" ref="kontakt"/>
   </folder>
   <folder name="assets">
@@ -72,8 +72,8 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="490019696" seo="true" mt="1604268889011" redirect="true"/>
-  <file name="about.html" crc="110571247" seo="true" mt="1604250243005" redirect="true"/>
-  <file name="kontakt.html" crc="4280980703" seo="true" mt="1604250243005" redirect="true"/>
-  <file name="datenschutz.html" crc="288826144" seo="true" mt="1604250243005" redirect="true"/>
+  <file name="index.html" crc="3965190721" seo="true" mt="1604269317701" redirect="true"/>
+  <file name="about.html" crc="498656623" seo="true" mt="1604269170650" redirect="true"/>
+  <file name="kontakt.html" crc="3765640311" seo="true" mt="1604269170650" redirect="true"/>
+  <file name="datenschutz.html" crc="3805879990" seo="true" mt="1604269170650" redirect="true"/>
 </manifest>
